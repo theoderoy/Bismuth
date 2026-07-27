@@ -8,6 +8,8 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 
+For the Quick Start, see [QUICKSTART.md](Docs/QUICKSTART.md).
+
 </div>
 
 ## What is this?
